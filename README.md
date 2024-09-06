@@ -7,9 +7,11 @@ Insertion Sort, Improved Quicksort, and Non-Recursive Merge Sort.
 The program measures the execution time of each algorithm for arrays of varying sizes and prints the average execution time for each algorithm.
 
 #Files
+
 sorting_algorithms.c: The C program that implements the sorting algorithms and measures their performance.
 
 #How to Run
+
 Compile the program using gcc:
 Run the program:
 
@@ -32,12 +34,15 @@ partition: A helper function that partitions the array around the pivot.
 sort: The Improved Quicksort algorithm that uses Quicksort for large arrays and Insertion Sort for small arrays.
 
 #Goal
+
 The goal of this project is to determine which algorithm is the fastest for classification among the three algorithms compared.
 
 #License
+
 This program is licensed under the UOWM(University of Western Macedonia) License, as part of Algorithms and Data Structures course.
 
 #Acknowledgments
+
 This program was developed as part of a project to compare the performance of different sorting algorithms.
 
 
